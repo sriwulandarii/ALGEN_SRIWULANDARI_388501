@@ -21,5 +21,5 @@ KETERANGAN : <br />
 5. HASIL AKHIR <br />
    Hasil Akhir disini akan ditampilkan untuk 10 individu terbaik <br />
 <br /> 
-Penjelasan Lebih Lanjut ada di dalam file : Dokumentasi Program
+
    
